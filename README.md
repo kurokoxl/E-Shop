@@ -10,7 +10,6 @@
 
 *A modern, scalable e-commerce API built with ASP.NET Core 9.0*
 
-[🚀 Live Demo](#getting-started) • [📚 Documentation](#api-endpoints) • [🔧 Setup](#setup) • [🤝 Contributing](#contributing)
 
 </div>
 
@@ -164,19 +163,6 @@ The application includes pre-seeded data:
 - 👤 **5 Users**: Test user accounts
 - 🛒 **Populated Carts**: Sample cart items
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. 🍴 Fork the repository
-2. 🌟 Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 Commit your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
-5. 🔄 Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
 
 ## 🔒 Security & Production Notes
 
